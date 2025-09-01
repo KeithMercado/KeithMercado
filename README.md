@@ -41,13 +41,17 @@ I am a passionate coder with a strong foundation in programming and database man
 
 ### 🔹 Databases  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/63be57f8-c2c2-4b8f-91a9-fec0253a0e1f" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>  
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2700aa93-cced-4fdc-9999-4dae7bed2b8f" />  
 </p>
 
 ### 🔹 Tools & Technologies  
 <p align="center">
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/aeb2bb4a-a9a2-4b8a-9480-e3803b6b963d" /> 
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/90bf4968-2fac-405a-96ea-b4858359d51c" /> 
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/47b61240-5d16-4eda-95d4-173485ea9b65" /> 
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fe2ceca9-e214-4968-954d-91cb11546685" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/>  
