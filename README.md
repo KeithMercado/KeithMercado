@@ -1,17 +1,17 @@
-# Hello, I'm Keith 👋
+## Hello, I'm Keith 👋
 
 I am a passionate coder with a strong foundation in programming and database management. I thrive on solving complex problems and crafting elegant, efficient solutions. Currently pursuing a **BS in Computer Science**, I am continuously expanding my skills and knowledge in the tech world.
 
 ---
 
-## 🎓 Education
+## Education
 
 - **BS Computer Science**  
   New Era University (2022 - Present)
 
 ---
 
-## 📜 Certifications  
+## Certifications  
 
 <div align="center">
   
@@ -27,7 +27,7 @@ I am a passionate coder with a strong foundation in programming and database man
 
 ---
 
-## 💻 Skills  
+## Skills  
 
 ### 🔹 Programming Languages  
 <p align="center">
@@ -61,7 +61,7 @@ I am a passionate coder with a strong foundation in programming and database man
 
 ---
 
-## 📊 GitHub Status  
+## GitHub Status  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeithMercado&show_icons=true&theme=radical" alt="GitHub Stats"/>  
@@ -71,7 +71,7 @@ I am a passionate coder with a strong foundation in programming and database man
 
 ---
 
-## 📫 Connect with Me  
+## About Me  
 
 <p align="center">
   <a href="mailto:mercadojohnkeith21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
@@ -82,4 +82,3 @@ I am a passionate coder with a strong foundation in programming and database man
 
 ---
 
-✨ *Let’s collaborate and build something amazing together!* 🚀
