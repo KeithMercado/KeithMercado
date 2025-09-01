@@ -16,7 +16,8 @@ I am a passionate coder with a flair for coding and database management skills. 
 
 ## Skills
 
-- **Programming:** Java, JavaScript
+- **Programming:** <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/46a20853-ee54-460d-aee4-3f3309e8130d" />
+
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
