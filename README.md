@@ -59,13 +59,17 @@
 
 <div align="center">
   
-| Certification | Link |
-|---------------|------|
-| Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate | [View](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88D786D50DB377B0E2EFA315A73303C40BCFDEA63103537603A08BAB6EFE37AF) |
-| Oracle Cloud Data Management 2023 Certified Foundations Associate | [View](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C6525463F712BB540E7EF900777E2DECC98ABFF349FB4843E7ECCDF12CC82547) |
-| Oracle Cloud Infrastructure 2023 Certified Foundations Associate | [View](https://catalog-education.oracle.com/pls/certview/sharebadge?id=175CA23D6A2350CF2482BD9EB7009293C10802D341BB0361F983F7859F0C46FA) |
-| SQL and Relational Databases 101 | [View](https://courses.cognitiveclass.ai/certificates/359e25539b534b0db24cd3157741affb) |
-| Introduction to Data Science | [View](https://www.netacad.com/certificates?issuanceId=27704d51-1a7d-46d5-aee2-b1e4862ffd91) |
+| Certification | Issued By |
+|---------------|:---------:|
+| [Introduction to Data Science](https://www.netacad.com/certificates?issuanceId=27704d51-1a7d-46d5-aee2-b1e4862ffd91) | Cisco Networking Academy |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/359e25539b534b0db24cd3157741affb) | IBM Cognitive Class |
+| [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88D786D50DB377B0E2EFA315A73303C40BCFDEA63103537603A08BAB6EFE37AF) | Oracle |
+| [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C6525463F712BB540E7EF900777E2DECC98ABFF349FB4843E7ECCDF12CC82547) | Oracle |
+| [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=175CA23D6A2350CF2482BD9EB7009293C10802D341BB0361F983F7859F0C46FA) | Oracle |
+| [Agile Testing in Action - A Beginner's Guide for Future Testers](https://drive.google.com/file/d/1JsyGWAhbutTOa-wrPUx-oisD525kWAvz/view?usp=sharing) | NEU CICS |
+| [Data Driven Facilities Management: The Future of Smart Spaces](https://drive.google.com/file/d/1VeoGGuVvLivP0ssG512U-1-PIub7rIsQ/view?usp=sharing) | NEU CICS |
+| [Optimizing AI Potential: Balancing Prompt Engineering](https://drive.google.com/file/d/16hIxDM3IRqjDilKc_o7lbJThEbQWxI8a/view?usp=sharing) | NEU CICS |
+| [Guide to Fullstack Development - From Zero to Hero](https://drive.google.com/file/d/1iMmBI9DCf5ph5stchA1i75OWqZC_p3l_/view?usp=sharing) | NEU CICS |
 
 </div>
 
