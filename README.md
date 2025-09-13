@@ -22,7 +22,7 @@
       <h3>🎓 Education</h3>
       <ul>
         <li><b>BS Computer Science</b><br>
-        New Era University (2022 - Present)</li>
+        New Era University (2022 - Present)</li><br>
         <li><b>Senior High School</b><br>
         New Era University Integrated School<br>
         STEM Strand (2020 - 2022)</li>
