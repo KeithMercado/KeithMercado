@@ -8,8 +8,10 @@
   <a href="https://www.linkedin.com/in/john-keith-mercado-63a051382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<h2 align="center">Hello, I'm Keith 👋</h2>
-
+<h2 align="center">
+  Hello, I'm Keith
+  <img src="https://github.com/user-attachments/assets/57dac6c5-a905-4810-b589-0072007a529b" alt="icon" width="25" style="vertical-align: middle;"/>
+</h2>
 
 <table>
   <tr>
@@ -19,7 +21,7 @@
       Currently pursuing a <b>BS in Computer Science</b>, I am continuously expanding my 
       skills and knowledge in the tech world.
       <br><br>
-      <h3>🎓 Education</h3>
+      <h3><img src="https://github.com/user-attachments/assets/e31cc152-d79e-46b8-b11e-c4f3b60e31ff" alt="icon" width="25" style="vertical-align: middle;"/> Education</h3>
       <ul>
         <li><b>BS Computer Science</b><br>
         New Era University (2022 - Present)</li><br>
@@ -28,7 +30,7 @@
         STEM Strand (2020 - 2022)</li>
         <br>
       </ul>
-      <h3>🚀 Programming Languages</h3>
+      <h3><img src="https://github.com/user-attachments/assets/768f483b-6ff9-4fbd-b6f2-7afe1c400306" alt="icon" width="25" style="vertical-align: middle;"/> Programming Languages</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
         <img width="18" />
@@ -55,7 +57,10 @@
 
 ---
 
-## 📜 Certifications  
+<h2 align="left">
+  <img src="https://github.com/user-attachments/assets/bf313aaf-c3b4-4b13-88ea-8a4f5c675143" alt="icon" width="25" style="vertical-align: middle;"/>
+  Certifications
+</h2>
 
 <div align="center">
   
@@ -75,7 +80,10 @@
 
 ---
 
-## 🛠️ Tech Skills  
+<h2 align="left">
+  <img src="https://github.com/user-attachments/assets/afcef3e0-d329-4fb3-90f1-cf7a1d448392" alt="icon" width="25" style="vertical-align: middle;"/>
+  Tech Skills
+</h2>
 
 ### 🔹 Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
@@ -88,11 +96,17 @@
 
 ---
 
-## 📊 GitHub Status
+<h2 align="left">
+  <img src="https://github.com/user-attachments/assets/f232858a-0531-4e6c-8e94-0dc884b1d243" alt="icon" width="25" style="vertical-align: middle;"/>
+  GitHub Status
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeithMercado&show_icons=true&theme=blue_navy" alt="GitHub Stats" width="400"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeithMercado&theme=blue_navy" alt="GitHub Streak" width="425"/>  
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithMercado&layout=compact&theme=blue_navy" alt="Top Languages" width="350"/>  
 </p>
 
