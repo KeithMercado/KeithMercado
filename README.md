@@ -97,23 +97,6 @@
 
 ---
 
-<h2 align="left">
-  <img src="https://github.com/user-attachments/assets/f232858a-0531-4e6c-8e94-0dc884b1d243" alt="icon" width="25" style="vertical-align: middle;"/>
-  GitHub Status
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeithMercado&show_icons=true&theme=blue_navy&count_private=true&include_all_commits=true&hide_border=true&token=PAT_1" alt="GitHub Stats" width="400"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeithMercado&theme=blue_navy&hide_border=true" alt="GitHub Streak" width="425"/>  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithMercado&layout=compact&theme=blue_navy&hide_border=true&token=PAT_1" alt="Top Languages" width="350"/>  
-</p>
-
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeithMercado/KeithMercado/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeithMercado/KeithMercado/output/pacman-contribution-graph.svg">
