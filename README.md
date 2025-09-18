@@ -66,6 +66,7 @@
   
 | Certification | Issued By |
 |---------------|:---------:|
+| [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/20bf6f7e2dce67b497e2d1c93115cb87) | Coursera |
 | [Introduction to Data Science](https://www.netacad.com/certificates?issuanceId=27704d51-1a7d-46d5-aee2-b1e4862ffd91) | Cisco Networking Academy |
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/359e25539b534b0db24cd3157741affb) | IBM Cognitive Class |
 | [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88D786D50DB377B0E2EFA315A73303C40BCFDEA63103537603A08BAB6EFE37AF) | Oracle |
@@ -102,12 +103,12 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeithMercado&show_icons=true&theme=blue_navy" alt="GitHub Stats" width="400"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeithMercado&theme=blue_navy" alt="GitHub Streak" width="425"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=KeithMercado&show_icons=true&theme=blue_navy&count_private=true&include_all_commits=true&hide_border=true&token=PAT_1" alt="GitHub Stats" width="400"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeithMercado&theme=blue_navy&hide_border=true" alt="GitHub Streak" width="425"/>  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithMercado&layout=compact&theme=blue_navy" alt="Top Languages" width="350"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithMercado&layout=compact&theme=blue_navy&hide_border=true&token=PAT_1" alt="Top Languages" width="350"/>  
 </p>
 
 
