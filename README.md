@@ -70,6 +70,8 @@
 | [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/20bf6f7e2dce67b497e2d1c93115cb87) | Coursera |
 | [Introduction to Data Science](https://www.netacad.com/certificates?issuanceId=27704d51-1a7d-46d5-aee2-b1e4862ffd91) | Cisco Networking Academy |
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/359e25539b534b0db24cd3157741affb) | IBM Cognitive Class |
+| [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/ee82afce46818d61d63cf93303e25949) | Coursera |
+| [Getting Started in Google Analytics](https://coursera.org/share/ee82afce46818d61d63cf93303e25949) | Coursera |
 | [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88D786D50DB377B0E2EFA315A73303C40BCFDEA63103537603A08BAB6EFE37AF) | Oracle |
 | [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C6525463F712BB540E7EF900777E2DECC98ABFF349FB4843E7ECCDF12CC82547) | Oracle |
 | [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=175CA23D6A2350CF2482BD9EB7009293C10802D341BB0361F983F7859F0C46FA) | Oracle |
