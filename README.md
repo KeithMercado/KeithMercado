@@ -66,7 +66,7 @@
   
 | Certification | Issued By |
 |---------------|:---------:|
-| [Data Science Tools](https://www.netacad.com/certificates/?issuanceId=8ee50d0a-0ce3-44cc-8fc4-e16a4b28e0a1) | IBM |
+| [Data Science Tools](https://drive.google.com/file/d/1IbaDdqswjKgIjWqhvo6yQTrl7XC7yUak/view?usp=sharing) | IBM |
 | [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/20bf6f7e2dce67b497e2d1c93115cb87) | Coursera |
 | [Introduction to Data Science](https://www.netacad.com/certificates?issuanceId=27704d51-1a7d-46d5-aee2-b1e4862ffd91) | Cisco Networking Academy |
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/359e25539b534b0db24cd3157741affb) | IBM Cognitive Class |
