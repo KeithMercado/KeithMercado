@@ -66,6 +66,7 @@
   
 | Certification | Issued By |
 |---------------|:---------:|
+| [Introduction to IoT](https://www.credly.com/badges/87ba3468-394f-4ba0-bc67-46bd27cff7e7/public_url) | Cisco |
 | [Computer Hardware Basics](https://www.credly.com/badges/8298a8d4-ed70-43e9-a983-50bfbc17b9f5/public_url) | Cisco |
 | [Introduction to Cybersecurity](https://www.credly.com/badges/c51beb08-d4f9-4ce2-9cc9-4be2eb7fd61e/public_url) | Cisco |
 | [Data Science Tools](https://www.credly.com/badges/5a79703d-053f-4a59-8638-a8cf4fd80167/public_url) | IBM |
