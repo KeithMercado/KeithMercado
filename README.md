@@ -66,10 +66,11 @@
   
 | Certification | Issued By |
 |---------------|:---------:|
-| [Introduction to Cybersecurity](https://www.credly.com/badges/c51beb08-d4f9-4ce2-9cc9-4be2eb7fd61e/public_url) | Cisco Networking Academy |
+| [Computer Hardware Basics](https://www.credly.com/badges/8298a8d4-ed70-43e9-a983-50bfbc17b9f5/public_url) | Cisco |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/c51beb08-d4f9-4ce2-9cc9-4be2eb7fd61e/public_url) | Cisco |
 | [Data Science Tools](https://www.credly.com/badges/5a79703d-053f-4a59-8638-a8cf4fd80167/public_url) | IBM |
 | [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/20bf6f7e2dce67b497e2d1c93115cb87) | Coursera |
-| [Introduction to Data Science](https://www.credly.com/badges/1f2999ce-8f41-4bf9-a206-9478a3fe98bc/public_url) | Cisco Networking Academy |
+| [Introduction to Data Science](https://www.credly.com/badges/1f2999ce-8f41-4bf9-a206-9478a3fe98bc/public_url) | Cisco |
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/359e25539b534b0db24cd3157741affb) | IBM Cognitive Class |
 | [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/ee82afce46818d61d63cf93303e25949) | Coursera |
 | [Getting Started in Google Analytics](https://coursera.org/share/ee82afce46818d61d63cf93303e25949) | Coursera |
